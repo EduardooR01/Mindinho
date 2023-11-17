@@ -2,7 +2,7 @@ h1 {text-align: center;
 }
 h2 {text-align: center;
 }
-h1 {background-color: blue;
+body {background-color: blue;
 }
 h1 {color:aliceblue white
 }
@@ -10,7 +10,8 @@ h2 {color:mintcream
 }
 #cantor {text-align: center;
 }
-#Manoel {text-align: center;
+#manoel {text-align: center;
 }
 #feliz {text-align: center;
 }
+#cantor {width: 300px;}
